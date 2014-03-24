@@ -17,6 +17,10 @@
 
 * http://www.slashroot.in/nginx-web-server-performance-tuning-how-to-do-it
 
+### Tools
+
+* [https://github.com/lebinh/ngxtop](know what is happening to your nginx server in real-time.)
+
 
 ## Video
 
