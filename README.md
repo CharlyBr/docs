@@ -4,6 +4,8 @@
 
 ## MySQL
 
+* [Misc notes](mysql/misc.md)
+
 * [Book recommendations, on INDEXing](http://forums.mysql.com/read.php?20,433765,434095#msg-434095)
 
 ### Tuning
