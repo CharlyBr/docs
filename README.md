@@ -18,6 +18,7 @@
 ## Nginx
 
 * http://www.slashroot.in/nginx-web-server-performance-tuning-how-to-do-it
+* https://github.com/lebinh/ngxtop
 
 ### Tools
 
